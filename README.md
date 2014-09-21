@@ -1,4 +1,4 @@
 unhcr-jordan.github.io
 ======================
 
-Landing pages
+Landing page
